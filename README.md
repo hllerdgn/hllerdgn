@@ -1,4 +1,4 @@
- ![MasterHead](https://siberci.com/wp-content/uploads/2021/01/programlama-dili-2021-1536x864.png)
+
 
 <h1 align="center">Hi 👋, I'm Halil Erdoğan</h1>
 <h3 align="center">Software Engineering Student in Karadeniz Technical University</h3>
